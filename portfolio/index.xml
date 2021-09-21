@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Sachin</title>
+    <link>https://singhals912.github.io/Sachin_portfolio/portfolio/</link>
+    <description>Recent content in Portfolio on Sachin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://singhals912.github.io/Sachin_portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-1/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-1/</guid>
+      <description>Project Description This web application has been designed to hep users fetch answers to questions using numerous NLP models .</description>
+    </item>
+    
+    <item>
+      <title>Class Project</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-2/</guid>
+      <description>Project Description This is an in-class competition for MGMT 571 at Purdue University.</description>
+    </item>
+    
+    <item>
+      <title>Class Project</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-4/</guid>
+      <description>Project Description Dataset – Transactional dataset of a retail company from 2014-17</description>
+    </item>
+    
+    <item>
+      <title>Database Design</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-6/</guid>
+      <description>Project Description Created a database using IMDB data and did some general analysis using SQL.</description>
+    </item>
+    
+    <item>
+      <title>NLP Project</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-3/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-3/</guid>
+      <description>Craigslist (stylized as craigslist) is an American classified advertisements website. The craigslist platform is advertiser oriented, providing a simple, low-structure interface where advertisers can create their ads with few constraints.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-5/</guid>
+      <description>To predict the market closing price based on twitter sentiment analysis and to create trading strategies for investors based on sentiment analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

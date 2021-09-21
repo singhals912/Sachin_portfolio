@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sachin</title>
+    <link>https://singhals912.github.io/Sachin_portfolio/categories/</link>
+    <description>Recent content in Categories on Sachin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://singhals912.github.io/Sachin_portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HuggingFace question answering pipeline</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/huggingface-question-answering-pipeline/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/huggingface-question-answering-pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bankruptcy Classification Kaggle</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/bankruptcy-classification-kaggle/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/bankruptcy-classification-kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBMS</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/dbms/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/dbms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market sentiment</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/market-sentiment/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/market-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/natural-language-processing/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/sql/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/categories/time-series-forecasting/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/categories/time-series-forecasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market sentiment on Sachin</title>
+    <link>https://singhals912.github.io/Sachin_portfolio/categories/market-sentiment/</link>
+    <description>Recent content in Market sentiment on Sachin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://singhals912.github.io/Sachin_portfolio/categories/market-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://singhals912.github.io/Sachin_portfolio/portfolio/project-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://singhals912.github.io/Sachin_portfolio/portfolio/project-5/</guid>
+      <description>To predict the market closing price based on twitter sentiment analysis and to create trading strategies for investors based on sentiment analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
